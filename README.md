@@ -21,7 +21,7 @@ These scripts are usually invoked from within the context of a project, and most
 - This kind of setup helps to enforce consistency, save time, and reduce onboarding friction for new developers.
 
 ### Where 'AI Routines' Fit In
-The concept of 'AI Routines' (and also its 'sister concept' of 'AI Scripts') revolves around using AI to manage these.
+The concept of 'AI Routines' (and also its 'sister concept' of 'AI Scripts') revolves around using AI to manage these Routines - including allowing them to be expressed (in some instances) in natural language.
 
 #### AI Routine
 The scripts that dev teams create are a specific 'flavor' of Routines, expressed in a specific formal language.  AI Routines are another 'flavor' - a Routine expressed in natural language.  It still has the concept of 'Steps' (and perhaps, as this project evolves - if it ends up making sense - other concepts from structured programming might get 'pulled in'), and it still has an algorighmic approach.  But the way it's expressed is in natural language.  This intends the following benefits
@@ -35,5 +35,5 @@ The scripts that dev teams create are a specific 'flavor' of Routines, expressed
   - "List all Routines that are about cleaning up databases"
   - Help me to find a Routine we can run to clean up a database"
 
-This project helps accrue these benefits by promulgating a minimal standard for the document comprising an AI Routine.  For a given AI-enabled IDE, this will likely (as mentioned above) be embedded in Rules.  To see this concretely 'in action', look at the 'Cursor AI Routines repo'.
+This project helps accrue these benefits by promulgating a minimal standard for the document comprising an AI Routine.  For a given AI-enabled IDE, this will likely (as mentioned above) be embedded in Rules.  To see this concretely 'in action', look at the ['Cursor AI Routines repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).
 
