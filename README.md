@@ -7,7 +7,7 @@ NOTE: This repo is part of a project to create AI Routines in various IDEs.  Bec
 ### What We Mean By 'Routines'
 Development teams often create or adopt scripts (e.g., shell scripts, Node-based tools like Grunt, Gulp, Yeoman, npm scripts, or language-specific CLIs) to automate repetitive or routine tasks such as:
 
-scaffolding project components (e.g., yo generators)
+# scaffolding project components (e.g., yo generators)
 
 compiling/transpiling code
 
