@@ -35,5 +35,5 @@ The scripts that dev teams create are a specific 'flavor' of Routines, expressed
   - "List all Routines that are about cleaning up databases"
   - Help me to find a Routine we can run to clean up a database"
 
-This project helps accrue these benefits by promulgating a minimal standard for the document comprising an AI Routine.  For a given AI-enabled IDE, this will likely (as mentioned above) be embedded in Rules.  To see this concretely 'in action', look at the ['Cursor AI Routines repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).
+This project helps accrue these benefits by promulgating a minimal standard for the document comprising an AI Routine.  For a given AI-enabled IDE, this will likely (as mentioned above) be embedded in Rules.  To see this concretely 'in action', look at the ['Cursor AI Routines/Scripts repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).
 
