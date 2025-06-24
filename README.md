@@ -35,12 +35,12 @@ The scripts that dev teams create are a specific 'flavor' of Routines, expressed
   - "List all Routines that are about cleaning up databases"
   - Help me to find a Routine we can run to clean up a database"
 
-This project helps accrue these benefits by promulgating a minimal standard for the document comprising an AI Routine.  For a given AI-enabled IDE, this will likely (as mentioned above) be embedded in Rules.  To see this concretely 'in action', look at the ['Cursor AI Routines/Scripts repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).
+This project helps accrue these benefits by promulgating a minimal standard for the document comprising an AI Routine.  For a given AI-enabled IDE, this will likely (as mentioned above) be embedded in Rules.  To see this concretely 'in action', look at the ['Cursor AI Routines/Scripts repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).  Additionally, you can gain a lot of knowledge and understanding by looking at the Cursor Rule there, 'ai-routines.mdc'.
 
 #### AI Scripts
 AI Routines and the 'standards' for them enable a natural-language 'flavor' of 'scripts'/algorithms.  An AI Script actually embodies a script like a shell script, a grunt script, etc.  The 'standard', though, supports the same benefits as covered above for AI Routines.  An AI Script 'self-documents' the parameters of the script it embodies.  It also has the YAML frontmatter and supports tags and other 'discoverability' elements.  It has a section 'Script' which contains the actual shell/grunt/etc. script to execute.  
 
 The instruction (from a prompt, from a Routine, etc.) to execute an AI Script can be in natural language.  When the AI runs an AI script, it can first if/as necessary engage in conversation with the user, to get any missing information.  An AI Routine can have as a Step, an instruction to call an AI Script, along with any necessary information (parameter values, etc.).  Again, the AI can as necessary engage with the user to get any necessary information the Routine Step didn't provide.
 
-To see this concretely 'in action', look at the ['Cursor AI Routines/Scripts repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).
+To see this concretely 'in action', look at the ['Cursor AI Routines/Scripts repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).  Additionally, you can gain a lot of knowledge and understanding by looking at the Cursor Rule there, 'ai-scripts.mdc'.
 
