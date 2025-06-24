@@ -44,3 +44,6 @@ The instruction (from a prompt, from a Routine, etc.) to execute an AI Script ca
 
 To see this concretely 'in action', look at the ['Cursor AI Routines/Scripts repo'](https://github.com/sladestewart/ai-routines-scripts-cursor).  Additionally, you can gain a lot of knowledge and understanding by looking at the Cursor Rule there, 'ai-scripts.mdc'.
 
+#### Downlinks
+['Cursor'](https://github.com/sladestewart/ai-routines-scripts-cursor)
+
